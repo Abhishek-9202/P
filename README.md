@@ -89,7 +89,7 @@
     "\n",
     "___\n",
     "    \n",
-    "![alt text](https://i.pinimg.com/originals/28/9e/56/289e56950f3c313822eca00f3e0e15db.jpg)"
+    "![alt text]()"
    ]
   }
  ],
