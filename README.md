@@ -85,7 +85,7 @@
     ">The following is uneeded by I wanted to practice. If you are into ships I present you Korrasami\n",
     "___\n",
     "\n",
-    "<font size=\"6\"> <center> <a href=\"https://shipping.fandom.com/wiki/Korrasami\">Korrasami</a> <font>\n",
+    "<font size=\"6\"> <center> <a href=\"">Korrasami</a> <font>\n",
     "\n",
     "___\n",
     "    \n",
